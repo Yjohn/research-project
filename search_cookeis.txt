@@ -1,0 +1,44 @@
+                   WHAT IS COOKEIS?
+
+Cookies are mainly used for three purposes:
+
+
+Session management
+Logins, shopping carts, game scores, or anything else the server should remember
+
+Personalization
+User preferences, themes, and other settings
+
+Tracking
+Recording and analyzing user behavior
+
+
+          HOW DO THEY  WORK?
+
+When you visit a site that uses cookies for the first time, a cookie is downloaded onto your PC. The next time you visit that site, your PC checks to see if it has a cookie that is relevant (that is, one containing the site name) and sends the information contained in that cookie back to the site.
+
+The site then ’knows’ that you have been there before, and in some cases, tailors what pops up on screen to take account of that fact. For instance, it can be helpful to vary content according to whether this is your first ever visit to a site – or your 71st.
+
+The good thing about cookies…
+
+Some cookies are more sophisticated. They might record how long you spend on each page on a site, what links you click, even your preferences for page layouts and colour schemes. They can also be used to store data on what is in your ‘shopping cart’, adding items as you click.
+
+The possibilities are endless, and generally the role of cookies is beneficial, making your interaction with frequently-visited sites smoother - for no extra effort on your part. Without cookies, online shopping would be much harder.
+
+…and the bad
+
+So why the paranoia? The answer probably depends on how you feel about organisations – both big business and government – storing information about you. There is nothing especially secret or exceptional about the information gathered by cookies, but you may just dislike the idea of your name being added to marketing lists, or your information being used to target you for special offers. That is your right, just as others are entitled to go along with the process.
+
+When cookies first started to appear, there was controversy. Some people regarded them as inherently sneaky - your PC was being used (without warning) to store personal information about you, which could then be used to build a picture of your browsing habits.
+
+Cookies and the law
+
+Most modern websites use cookies in some way, and it is unlikely that the majority of internet users even notice cookies working away in the background as they browse from site to site. Until now it has been up to individual users to either block or allow cookies using settings in their internet browser. From the end of May 2012 though, a new EU law will require all sites that use cookies to seek your express permission to store and retrieve data about your browsing habits.
+
+Most sites will now draw your attention to their cookie policy when you first visit the home page. Don't be put off by this, you were probably sharing details with the site before without even knowing it. In many cases you can click to say you understand the cookies policy but in many instance you can simply ignore the announcement and continue browsing as normal.
+
+Sites will continue to use cookies and the information they store in order to make your online browsing an easier, more enjoyable experience. Cookies are nothing to be scared of, even if the new prompts seeking your consent might seem a little off-putting for the cautious internet user.
+
+In the UK, the Information Commissioner's Office (ICO) will be closely monitoring sites to make sure that they comply with this new legislation, so there will be no avoiding the regulations. Websites have had over a year to make the changes to their code, so there should be no excuses!
+
+You can of course still change how cookies are stored on your machine by clicking on the 'Tools' menu in your internet browser, but you may find that the new law means your concerns about privacy and your personal data have been addressed
