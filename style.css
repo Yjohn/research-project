@@ -1,0 +1,33 @@
+
+section {
+    background-color: #B2B951 ;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    padding-bottom: 3rem;
+    padding-top: 2rem;
+}
+
+footer {
+    background-color: #31CEEE;
+    height: 150px;
+    margin-top: -2rem;
+}
+
+header {
+    background-color: #31CEEE;
+    height: 150px;
+}
+
+h1{ padding-left: 23rem;
+padding-top: 4rem;
+}
+
+.author {
+    padding-left: 17rem;
+padding-top: 3rem;
+font-size: 2rem;
+}
+
+.links {
+    margin-top: 2rem;
+}
