@@ -1,4 +1,4 @@
-# **REST API Concept and Example**
+# **REST API**
 **The word **API stands for****
     A: -Application, 
     P: - Programming 
@@ -48,3 +48,22 @@ The concept of REST is that the client passes to the server everything that the 
 And then the server does it, returns to the client with the action complete, and that’s it. It’s a process that is complete.
 
 Despite being simple, REST is fully-featured; there's basically nothing you can do in Web Services that can't be done with a RESTful architecture.
+
+**GET**
+
+GET is the simplest type of HTTP request method; the one that browsers use each time you click a link or type a URL into the address bar. It instructs the server to transmit the data identified by the URL to the client. Data should never be modified on the server side as a result of a GET request. In this sense, a GET request is read-only, but of course, once the client receives the data, it is free to do any operation with it on its own side - for instance, format it for display.
+
+**PUT**
+
+A PUT request is used when you wish to create or update the resource identified by the URL. For example,
+
+_PUT /clients/robin_
+
+**DELETE**
+
+DELETE should perform the contrary of PUT; it should be used when you want to delete the resource identified by the URL of the request.
+
+**POST**
+
+POST is used when the processing you wish to happen on the server should be repeated, if the POST request is repeated (that is, they are not idempotent; more on that below). In addition, POST requests should cause processing of the request body as a subordinate of the URL you are posting to.
+PUT requests are used easily instead of POST requests, and vice versa. Some systems use only one, some use POST for create operations, and PUT for update operations (since with a PUT request you always supply the complete URL), some even use POST for updates and PUT for creates.
