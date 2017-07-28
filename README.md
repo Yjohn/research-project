@@ -10,3 +10,5 @@ https://www.tutorialspoint.com//nodejs/nodejs_web_module.htm
 more about cookies https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
 
 ReST: - https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm
+
+https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
